@@ -1,0 +1,2 @@
+# translation_request
+翻訳リクエストを受け付けるリポジトリ
